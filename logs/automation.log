@@ -1,0 +1,34 @@
+18:29:56.042 [main]  INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+18:29:56.720 [main]  INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+18:29:56.938 [main]  INFO  testCases.TC001_AccountRegistrationTest - Providing custome details......
+18:30:00.040 [main]  INFO  testCases.TC001_AccountRegistrationTest - Validating expected message.....
+18:30:00.064 [main]  INFO  testCases.TC001_AccountRegistrationTest - ****** Finished TC001_AccountRegistrationTest  ******
+18:30:05.405 [main]  INFO  testCases.TC002_LoginTest - ****** Statring TC002_LoginTest ******
+18:30:09.929 [main]  INFO  testCases.TC002_LoginTest - ****** Finished TC002_LoginTest ******
+18:34:22.569 [main]  DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kaurg\eclipse-workspace\SeleniumWebdriverAutomation\master.xml"
+18:34:26.657 [main]  INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest  ******
+18:34:26.750 [main]  INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+18:34:27.465 [main]  INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+18:34:27.623 [main]  INFO  testCases.TC001_AccountRegistrationTest - Providing custome details......
+18:34:30.004 [main]  INFO  testCases.TC001_AccountRegistrationTest - Validating expected message.....
+18:34:30.028 [main]  INFO  testCases.TC001_AccountRegistrationTest - ****** Finished TC001_AccountRegistrationTest  ******
+18:34:33.177 [main]  INFO  testCases.TC002_LoginTest - ****** Statring TC002_LoginTest ******
+18:34:35.055 [main]  INFO  testCases.TC002_LoginTest - ****** Finished TC002_LoginTest ******
+19:00:28.118 [main]  DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kaurg\eclipse-workspace\SeleniumWebdriverAutomation\master.xml"
+19:00:32.147 [main]  INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest  ******
+19:00:32.229 [main]  INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+19:00:32.920 [main]  INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+19:00:33.102 [main]  INFO  testCases.TC001_AccountRegistrationTest - Providing custome details......
+19:00:35.460 [main]  INFO  testCases.TC001_AccountRegistrationTest - Validating expected message.....
+19:00:35.484 [main]  INFO  testCases.TC001_AccountRegistrationTest - ****** Finished TC001_AccountRegistrationTest  ******
+19:00:38.996 [main]  INFO  testCases.TC002_LoginTest - ****** Statring TC002_LoginTest ******
+19:00:40.877 [main]  INFO  testCases.TC002_LoginTest - ****** Finished TC002_LoginTest ******
+19:04:20.966 [main]  DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kaurg\eclipse-workspace\SeleniumWebdriverAutomation\master.xml"
+19:04:24.585 [main]  INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest  ******
+19:04:24.653 [main]  INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+19:04:25.312 [main]  INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+19:04:25.497 [main]  INFO  testCases.TC001_AccountRegistrationTest - Providing custome details......
+19:04:27.532 [main]  INFO  testCases.TC001_AccountRegistrationTest - Validating expected message.....
+19:04:27.557 [main]  INFO  testCases.TC001_AccountRegistrationTest - ****** Finished TC001_AccountRegistrationTest  ******
+19:04:30.652 [main]  INFO  testCases.TC002_LoginTest - ****** Statring TC002_LoginTest ******
+19:04:32.445 [main]  INFO  testCases.TC002_LoginTest - ****** Finished TC002_LoginTest ******

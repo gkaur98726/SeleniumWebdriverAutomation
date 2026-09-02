@@ -1,0 +1,53 @@
+20:50:30.413 [main]  DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kaurg\eclipse-workspace\SeleniumWebdriverAutomation\grid-docker.xml"
+20:50:30.952 [main]  INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kaurg\eclipse-workspace\SeleniumWebdriverAutomation\grid-docker.xml
+
+20:50:38.771 [main]  INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest  ******
+20:50:39.105 [main]  INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+20:50:40.180 [main]  INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+20:50:40.790 [main]  INFO  testCases.TC001_AccountRegistrationTest - Providing custome details......
+20:50:43.635 [main]  INFO  testCases.TC001_AccountRegistrationTest - Validating expected message.....
+20:50:43.708 [main]  INFO  testCases.TC001_AccountRegistrationTest - ****** Finished TC001_AccountRegistrationTest  ******
+20:50:47.816 [main]  INFO  testCases.TC002_LoginTest - ****** Statring TC002_LoginTest ******
+20:50:50.763 [main]  INFO  testCases.TC002_LoginTest - ****** Finished TC002_LoginTest ******
+20:52:20.547 [main]  DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kaurg\eclipse-workspace\SeleniumWebdriverAutomation\grid-docker.xml"
+20:52:20.898 [main]  INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kaurg\eclipse-workspace\SeleniumWebdriverAutomation\grid-docker.xml
+
+20:52:25.778 [main]  INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest  ******
+20:52:26.045 [main]  INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+20:52:27.047 [main]  INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+20:52:27.686 [main]  INFO  testCases.TC001_AccountRegistrationTest - Providing custome details......
+20:52:29.814 [main]  INFO  testCases.TC001_AccountRegistrationTest - Validating expected message.....
+20:52:29.876 [main]  INFO  testCases.TC001_AccountRegistrationTest - ****** Finished TC001_AccountRegistrationTest  ******
+20:52:33.954 [main]  INFO  testCases.TC002_LoginTest - ****** Statring TC002_LoginTest ******
+20:52:36.780 [main]  INFO  testCases.TC002_LoginTest - ****** Finished TC002_LoginTest ******
+20:53:22.413 [main]  DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kaurg\eclipse-workspace\SeleniumWebdriverAutomation\grid-docker.xml"
+20:53:59.938 [main]  DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kaurg\eclipse-workspace\SeleniumWebdriverAutomation\grid-docker.xml"
+20:54:00.350 [main]  INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kaurg\eclipse-workspace\SeleniumWebdriverAutomation\grid-docker.xml
+
+20:54:05.376 [main]  INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest  ******
+20:54:05.560 [main]  INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+20:54:06.493 [main]  INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+20:54:07.091 [main]  INFO  testCases.TC001_AccountRegistrationTest - Providing custome details......
+20:54:07.541 [main]  INFO  testCases.TC001_AccountRegistrationTest - Validating expected message.....
+20:54:09.039 [main]  INFO  testCases.TC001_AccountRegistrationTest - ****** Finished TC001_AccountRegistrationTest  ******
+20:54:13.072 [main]  INFO  testCases.TC002_LoginTest - ****** Statring TC002_LoginTest ******
+20:54:15.869 [main]  INFO  testCases.TC002_LoginTest - ****** Finished TC002_LoginTest ******
+20:55:06.371 [main]  INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest  ******
+20:55:06.546 [main]  INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+20:55:08.096 [main]  INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+20:55:08.304 [main]  INFO  testCases.TC001_AccountRegistrationTest - Providing custome details......
+20:55:12.397 [main]  INFO  testCases.TC001_AccountRegistrationTest - Validating expected message.....
+20:55:12.440 [main]  INFO  testCases.TC001_AccountRegistrationTest - ****** Finished TC001_AccountRegistrationTest  ******
+20:55:24.301 [main]  INFO  testCases.TC002_LoginTest - ****** Statring TC002_LoginTest ******
+20:55:27.447 [main]  INFO  testCases.TC002_LoginTest - ****** Finished TC002_LoginTest ******
+21:00:18.739 [main]  DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kaurg\eclipse-workspace\SeleniumWebdriverAutomation\grid-docker.xml"
+21:00:19.251 [main]  INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kaurg\eclipse-workspace\SeleniumWebdriverAutomation\grid-docker.xml
+
+21:00:26.688 [main]  INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest  ******
+21:00:27.012 [main]  INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Link
+21:00:27.973 [main]  INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+21:00:28.697 [main]  INFO  testCases.TC001_AccountRegistrationTest - Providing custome details......
